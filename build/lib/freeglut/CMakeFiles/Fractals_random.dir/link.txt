@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -pedantic -O3 -DNDEBUG -rdynamic CMakeFiles/Fractals_random.dir/progs/demos/Fractals_random/fractals_random.c.o -o bin/Fractals_random  -Wl,-rpath,/home/unroot/Desktop/opengl/build/lib/freeglut/lib -lGLU -lX11 -lXrandr -lXxf86vm -lXi -lGL -lm -lm lib/libglut.so.3.11.1 -lX11 -lXrandr -lXxf86vm -lXi -lGL -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -pedantic -O3 -DNDEBUG -rdynamic CMakeFiles/timer_callback.dir/progs/demos/timer_callback/timer.c.o -o bin/timer_callback  -Wl,-rpath,/home/unroot/Desktop/opengl/build/lib/freeglut/lib -lGLU -lX11 -lXrandr -lXxf86vm -lXi -lGL -lm -lm lib/libglut.so.3.11.1 -lX11 -lXrandr -lXxf86vm -lXi -lGL -lm 
